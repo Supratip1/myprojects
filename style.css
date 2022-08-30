@@ -1,0 +1,82 @@
+body{
+    background-color:hsl(212, 45%, 89%)
+}
+
+.mid-div{
+    background-color: white;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    position: fixed; top: 115px; left:500px;
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    font-family: 'Noto Serif KR', sans-serif;
+    
+    
+}
+h1{
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 120px;
+    padding-right: 10px;
+    height: 50px;
+    font-size: 14px;
+    
+    
+}
+.paragraph{
+    background-color: white;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    position: fixed; top: 345px; left:507px; 
+    height: 40px;
+    width: 190px;
+    font-size: 10px;
+    color: gray;
+    border-radius: 15px;
+    font-family: 'Noto Serif KR', sans-serif;
+    text-align: left;
+}
+.image{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    padding-left: 38px;
+    padding-right: 105px;
+    position: fixed; top: 210px; left:562px;
+    max-width: 100%;
+    height: auto;
+
+   
+}
+img{
+    
+    max-height: 160px;
+    border-radius: 10px;
+    position: fixed;
+    width: 180px;
+}
+p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.bottom-para{
+    
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    position: fixed; top: 350px; left:500px; 
+    padding-left: 40px;
+    padding-right: 20px;
+    height: 65px;
+    width: 100px;
+    font-size: 10px;
+    color: gray;
+    border-radius: 15px;
+    font-family: 'Noto Serif KR', sans-serif;
+    text-align: left;
+}
